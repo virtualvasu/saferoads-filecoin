@@ -29,7 +29,7 @@ export default function ProjectIntroPage({ onContinue }: ProjectIntroPageProps) 
               <span className="hidden sm:inline">EthTransport</span>
             </a>
             <a
-              href="https://github.com/virtualvasu/road-incident-dapp-hedera"
+              href="https://github.com/virtualvasu/saferoads-filecoin"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2 border border-gray-300 hover:border-purple-600 rounded-lg transition-all text-gray-700 hover:text-purple-600"
@@ -355,7 +355,7 @@ export default function ProjectIntroPage({ onContinue }: ProjectIntroPageProps) 
                 <Github className="w-5 h-5 text-gray-600" />
               </a>
               <a
-                href="https://github.com/virtualvasu/road-incident-dapp-hedera"
+                href="https://github.com/virtualvasu/saferoads-filecoin"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 border border-gray-300 hover:border-purple-600 rounded-lg transition-all"
