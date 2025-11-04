@@ -60,11 +60,11 @@ SafeRoads Filecoin makes civic participation **rewarding and verifiable**.
 
 ## Deployment & Demo
 
-- **Deployment link of main dapp:**  
-    [Coming Soon - Filecoin Deployment]
+- **🚀 Live Deployment:**  
+    [https://saferoads-filecoin.vercel.app/](https://saferoads-filecoin.vercel.app/)
 
-- **Demo screencasts of the dapp:**  
-    [Demo Links Coming Soon]
+- **🎥 Demo Video:**  
+    [Watch SafeRoads Filecoin Demo](https://drive.google.com/file/d/1dZk_fT_yDWhZakKJz8ZAiqzm4o1G5ift/view?usp=sharing)
 
 ---
 
