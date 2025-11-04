@@ -1,0 +1,11 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+
+[rpc_endpoints]
+hedera_testnet = "https://testnet.hashio.io/api"
+hedera_testnet_arkhia = "https://pool-testnet.arkhia.io"
+filecoin_testnet = "https://api.calibration.node.glif.io/rpc/v1"
